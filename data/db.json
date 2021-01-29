@@ -4,22 +4,19 @@
       "id": 1,
       "author": "John Doe",
       "title": "First Blog Post",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.  quidem accusamus quisquam incidunt voluptate ipsum molestias. Quod, id aliquam! Reprehenderit, quam.",
-      "likes": 14
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.  quidem accusamus quisquam incidunt voluptate ipsum molestias. Quod, id aliquam! Reprehenderit, quam."
     },
     {
       "id": 2,
       "author": "Joe Smith",
       "title": "Second Blog Post",
-      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt neque veritatis error recusandae officiis, a asperiores iste eius quaerat quibusdam officia! Magnam eveniet fugiat, eius reiciendis perferendis explicabo inventore voluptates.",
-      "likes": 38
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt neque veritatis error recusandae officiis, a asperiores iste eius quaerat quibusdam officia! Magnam eveniet fugiat, eius reiciendis perferendis explicabo inventore voluptates."
     },
     {
       "id": 3,
       "author": "James",
       "title": "Third Blog Post",
-      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur tenetur dolorum quae aliquid aperiam earum iste quidem deserunt nam odio nostrum culpa ea, nemo similique eius hic. Nesciunt, maiores doloremque.",
-      "likes": 6
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur tenetur dolorum quae aliquid aperiam earum iste quidem deserunt nam odio nostrum culpa ea, nemo similique eius hic. Nesciunt, maiores doloremque."
     }
   ],
   "profile": [
