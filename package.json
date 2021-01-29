@@ -1,0 +1,23 @@
+{
+  "name": "json-server-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch ./data/db.json --port 6500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProdexOne/json-server-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProdexOne/json-server-blog/issues"
+  },
+  "homepage": "https://github.com/ProdexOne/json-server-blog#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
