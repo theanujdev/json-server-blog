@@ -97,3 +97,13 @@ button {
   width: 100%;
   border: 1px solid #ddd;
 }
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#form-status {
+  color: red;
+}
