@@ -37,10 +37,15 @@ section.container {
 
   padding: 30px 16rem;
 }
-h1 {
+#heading {
   text-align: center;
   font-size: 50px;
   margin-bottom: 2rem;
+}
+.flex-group h1,
+.form h1 {
+  text-align: center;
+  font-size: 50px;
 }
 
 .card {
@@ -75,17 +80,17 @@ button {
 #blogForm label {
   color: rgb(83, 27, 133);
 }
-#blogForm button {
+button {
   font-size: 20px;
   color: white;
   background-color: blueviolet;
   padding: 10px 20px;
   border-radius: 9999px;
 }
-#blogForm button:focus {
+button:focus {
   outline: none;
 }
-#blogForm button:hover {
+button:hover {
   background-color: rgb(104, 32, 170);
 }
 #blogForm input {
@@ -103,7 +108,34 @@ button {
   justify-content: space-between;
   align-items: center;
 }
+.flex-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+}
 
 #form-status {
   color: red;
+}
+
+.blog-para {
+  padding: 0 20px;
+  margin: 70px 0;
+  font-size: x-large;
+}
+
+#author {
+  font-size: 2rem;
+}
+
+#blog-header {
+  margin-bottom: 30px;
+}
+
+#blog-btn a {
+  color: #ffffff;
+}
+#blog-btn a:hover {
+  opacity: 1;
 }
