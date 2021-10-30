@@ -27,7 +27,7 @@ git clone https://github.com/ProdexOne/json-server-blog.git
 - Go to the project directory
 
 ```bash
-cd project-collab-demo
+cd json-server-blog
 ```
 
 - Install dependencies
