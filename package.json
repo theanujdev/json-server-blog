@@ -1,7 +1,8 @@
 {
   "name": "json-server-blog",
   "version": "1.0.0",
-  "description": "",
+  "author": "Anuj Sharma",
+  "description": "Blog website using json server",
   "main": "index.js",
   "scripts": {
     "dev": "json-server --watch ./data/db.json --port 6500"
@@ -11,8 +12,7 @@
     "url": "git+https://github.com/ProdexOne/json-server-blog.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ProdexOne/json-server-blog/issues"
   },
