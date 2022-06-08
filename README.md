@@ -21,7 +21,7 @@ This project is a simple blog website whose backend is made with JSON server. GE
 - Clone the project
 
 ```bash
-git clone https://github.com/ProdexOne/json-server-blog.git
+git clone https://github.com/theanujdev/json-server-blog.git
 ```
 
 - Go to the project directory
@@ -46,19 +46,19 @@ npm run dev
 
 ## Screenshots
 
-![Blog Home](https://raw.githubusercontent.com/ProdexOne/json-server-blog/master/img/home.png)
+![Blog Home](https://raw.githubusercontent.com/theanujdev/json-server-blog/master/img/home.png)
 
-![Create Blog](https://raw.githubusercontent.com/ProdexOne/json-server-blog/master/img/create_blog.png)
+![Create Blog](https://raw.githubusercontent.com/theanujdev/json-server-blog/master/img/create_blog.png)
 
-![Blog](https://raw.githubusercontent.com/ProdexOne/json-server-blog/master/img/blog.png)
+![Blog](https://raw.githubusercontent.com/theanujdev/json-server-blog/master/img/blog.png)
 
 ## Feedback
 
-If you have any feedback, please reach out at [@AnujS_IN](https://twitter.com/AnujS_IN)
+If you have any feedback, please reach out at [@theanujdev](https://twitter.com/theanujdev)
 
 ## Authors
 
-- [@ProdexOne](https://www.github.com/ProdexOne)
+- [@theanujdev](https://www.github.com/theanujdev)
 
 ## License
 
